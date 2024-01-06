@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edouard Baillot</h1>
 <h2 align="center">A Passionate Full Stack Developer from Paris</h2>
 
-<div align="left">
-  <p>
+<div align="center" width="80%">
+  <p alingn="justify">
     🔭 I’m currently working <b>as a freelancer</b>, open to new job opportunities.<br>
     🌱 I’m learning <b>at 42 School in Paris</b>, embracing peer-to-peer learning for coding education.<br>
     👯 I’m looking to collaborate on <b>innovative projects</b> that challenge my skills and creativity.<br>
