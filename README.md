@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edouard Baillot</h1>
 <h2 align="center">A Passionate Full Stack Developer from Paris</h2>
 
-<div align="center">
+<div align="left">
   <p>
     🔭 I’m currently working <b>as a freelancer</b>, open to new job opportunities.<br>
     🌱 I’m learning <b>at 42 School in Paris</b>, embracing peer-to-peer learning for coding education.<br>
